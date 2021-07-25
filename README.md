@@ -1,2 +1,2 @@
 # StudyPlanner
-Web Technology project
+Academic project on Web Technology.
